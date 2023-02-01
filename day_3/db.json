@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "title": "complete Assignment 1" },
+    { "id": 2, "title": "updated Assignment 2" },
+    { "id": 4, "title": "new Assignment 4" }
+  ]
+}
